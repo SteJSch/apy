@@ -4,4 +4,5 @@ Import by writing: import wavepy as wpy
 """
 
 # from wave_src import wave_main as wm
+from apy.apy_incl import *
 import apy.wave_src.wave_main as wm

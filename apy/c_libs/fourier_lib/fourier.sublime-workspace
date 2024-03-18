@@ -1,0 +1,974 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chan",
+				"change_p"
+			],
+			[
+				"extr",
+				"extrm_pos"
+			],
+			[
+				"intb",
+				"intBy_full_undu"
+			],
+			[
+				"mag",
+				"magn_names"
+			],
+			[
+				"inde",
+				"ind_el"
+			],
+			[
+				"ind",
+				"ind_c"
+			],
+			[
+				"k",
+				"key_c"
+			],
+			[
+				"xl",
+				"xlims_per"
+			],
+			[
+				"int",
+				"intgrl"
+			],
+			[
+				"inrg",
+				"intgrl_end"
+			],
+			[
+				"para",
+				"para_fun"
+			],
+			[
+				"ingr",
+				"intgrl_data"
+			],
+			[
+				"magne",
+				"magnetization"
+			],
+			[
+				"spline_",
+				"spline_pnts"
+			],
+			[
+				"set",
+				"set_para"
+			],
+			[
+				"fac",
+				"fac_ps"
+			],
+			[
+				"div",
+				"divPY"
+			],
+			[
+				"sgm",
+				"sgmntX"
+			],
+			[
+				"divp",
+				"divPX"
+			],
+			[
+				"numg",
+				"num_glue"
+			],
+			[
+				"indg",
+				"ind_g"
+			],
+			[
+				"sum_",
+				"sum_e_sq"
+			],
+			[
+				"bst",
+				"bst_num"
+			],
+			[
+				"small",
+				"smallest_step"
+			],
+			[
+				"state",
+				"state_i"
+			],
+			[
+				"state_",
+				"state_i"
+			],
+			[
+				"val",
+				"val_curr"
+			],
+			[
+				"gd",
+				"gd_precission"
+			],
+			[
+				"pste",
+				"ps_steps"
+			],
+			[
+				"pa_",
+				"pa_name"
+			],
+			[
+				"plo",
+				"p_loop"
+			],
+			[
+				"ste",
+				"step_deriv"
+			],
+			[
+				"deriv_st",
+				"deriv_state"
+			],
+			[
+				"indar",
+				"ind_arg_step"
+			],
+			[
+				"deriv",
+				"deriv_state"
+			],
+			[
+				"args_",
+				"args_now"
+			],
+			[
+				"step_d",
+				"step_deriv"
+			],
+			[
+				"prec_",
+				"prec_intrn"
+			],
+			[
+				"preci",
+				"prec_intrn"
+			],
+			[
+				"c",
+				"comma_plc"
+			],
+			[
+				"dr",
+				"drv_n"
+			],
+			[
+				"endm",
+				"endMag1_Drop"
+			],
+			[
+				"strt",
+				"strt_end_prdc"
+			],
+			[
+				"get",
+				"get_para"
+			],
+			[
+				"lmage",
+				"lMagME1"
+			],
+			[
+				"end",
+				"endz"
+			],
+			[
+				"resd",
+				"res_dict"
+			],
+			[
+				"relc",
+				"rel_change"
+			],
+			[
+				"bint1",
+				"bint1_n"
+			],
+			[
+				"pole",
+				"poleL_EP"
+			],
+			[
+				"valn",
+				"val_n1"
+			],
+			[
+				"brea",
+				"breaIt"
+			],
+			[
+				"psn",
+				"ps_n_o"
+			],
+			[
+				"fste",
+				"fst_int_end_strct"
+			],
+			[
+				"fr",
+				"frst_int"
+			],
+			[
+				"fst",
+				"fst_int_end"
+			],
+			[
+				"str",
+				"strt_end_prdc"
+			],
+			[
+				"para_v",
+				"para_vals"
+			],
+			[
+				"spli",
+				"spline_use"
+			],
+			[
+				"magd",
+				"mag_drop1_folder"
+			],
+			[
+				"para_",
+				"para_o"
+			],
+			[
+				"last_f",
+				"last_funs"
+			],
+			[
+				"pre",
+				"prec_n"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"fun",
+				"fun_paras"
+			],
+			[
+				"groo",
+				"groovy_i"
+			],
+			[
+				"las",
+				"last_res"
+			],
+			[
+				"star",
+				"start1"
+			],
+			[
+				"res",
+				"res_simu"
+			],
+			[
+				"res_r",
+				"res_run"
+			],
+			[
+				"magdr",
+				"mag_drops_2"
+			],
+			[
+				"udr",
+				"u_drop2"
+			],
+			[
+				"ldr",
+				"l_drop1"
+			],
+			[
+				"wid",
+				"width_2"
+			],
+			[
+				"mind",
+				"min_drop_2"
+			],
+			[
+				"ldro",
+				"l_drop1"
+			],
+			[
+				"ma",
+				"mag_drops_1"
+			],
+			[
+				"key",
+				"key_nam"
+			],
+			[
+				"undu",
+				"undu_py"
+			],
+			[
+				"step",
+				"steps_p"
+			],
+			[
+				"conv",
+				"convrg_not_reached"
+			],
+			[
+				"sgmn",
+				"sgmnt_tst"
+			],
+			[
+				"incr",
+				"increase_by"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"len_",
+				"len_segm"
+			],
+			[
+				"lno",
+				"l_now_new"
+			],
+			[
+				"ln",
+				"l_now_new"
+			],
+			[
+				"pd",
+				"pd_sort_0"
+			],
+			[
+				"sor",
+				"sort_segm"
+			],
+			[
+				"segm",
+				"segm_std"
+			],
+			[
+				"seg",
+				"segmy"
+			],
+			[
+				"va",
+				"val_l"
+			],
+			[
+				"leng",
+				"length_dic"
+			],
+			[
+				"no_e",
+				"no_end_l"
+			],
+			[
+				"no",
+				"no_lines"
+			],
+			[
+				"pst",
+				"pst_val"
+			],
+			[
+				"steps",
+				"steps_d"
+			],
+			[
+				"ps",
+				"pst_val"
+			],
+			[
+				"p_",
+				"p_n"
+			],
+			[
+				"sub",
+				"sub_folder"
+			],
+			[
+				"avr",
+				"bst_avrg"
+			],
+			[
+				"resf",
+				"res_fold_now"
+			],
+			[
+				"mag_d",
+				"mag_drops"
+			],
+			[
+				"bint",
+				"bint2_low_got"
+			],
+			[
+				"bint2",
+				"bint2_low_got"
+			],
+			[
+				"bint2l",
+				"bint2_low_got"
+			],
+			[
+				"sf",
+				"s_field"
+			],
+			[
+				"unu",
+				"undu_p"
+			],
+			[
+				"divP",
+				"divPY"
+			],
+			[
+				"rel",
+				"rel_change1"
+			],
+			[
+				"lPO",
+				"lPolMY"
+			],
+			[
+				"nu",
+				"num_eq"
+			],
+			[
+				"num",
+				"num_eq"
+			],
+			[
+				"first",
+				"first_non_zero1"
+			],
+			[
+				"fir",
+				"first_non_zero1"
+			],
+			[
+				"chng",
+				"chng_small_0"
+			],
+			[
+				"all",
+				"all_segm"
+			],
+			[
+				"av",
+				"avrg_chng"
+			],
+			[
+				"avrg",
+				"avrg_chngs"
+			],
+			[
+				"divM",
+				"divMYZ"
+			],
+			[
+				"num_p",
+				"num_pnts_per_period"
+			],
+			[
+				"zeros",
+				"zerosT"
+			],
+			[
+				"csp",
+				"csplintT"
+			],
+			[
+				"curr",
+				"curr_paras"
+			],
+			[
+				"smal",
+				"smallest_fun"
+			],
+			[
+				"hast",
+				"hast_pd"
+			],
+			[
+				"snd",
+				"snds_vals"
+			],
+			[
+				"resF",
+				"resFile_tmp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fourier.py",
+			"settings":
+			{
+				"buffer_size": 678,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					2,
+					"right_delete",
+					null,
+					"AgAAAD8AAAAAAAAAPwAAAAAAAAAJAAAAbGlicmFyaWVzPwAAAAAAAAA/AAAAAAAAAAEAAAAv",
+					"AQAAAAAAAAABAAAAPwAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "fourier"
+					},
+					"CAAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABEAAAAAAAAAAUAAABteWxpYkQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "include/fourier.h",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src/fourier.cpp",
+			"settings":
+			{
+				"buffer_size": 340,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "fourier"
+					},
+					"CAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABCAAAAAAAAAAUAAABteWxpYkIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/testing/Numeric_Tests/fast_fourier.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/testing/First/first.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/apy/wave_src/wave_main.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/apy/numerics/numerics_main.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/apy/__init__.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/apy/apy_incl.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/apy/apy_struct.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/setup.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/apy/c_libs/lib1/src/mylib.cpp",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/apy/c_libs/lib1/include/mylib.h",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/templates/python_c_binding_template/binding.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/apy/wave/wave.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/testing/First/first.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/src/wave/wave.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/src/apy_incl.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy/apy_project/__init__.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/bf_play.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/src/spectrum/wave.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/src/spectrum/spectrum.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/src/helpers/file_folder_helpers.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/src/helpers/data_ana_helpers.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/src/apy_incl.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/__init__.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/src/magnetism/bfield.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/src/magnetism/undumag_optim_helpers.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/src/magnetism/undumag.py",
+		"/home/a3497/Documents/Very_Unimportant/Arbeit/HZB/Undus/Programming/Python_Code/apy_dev/apy/src/optimization/optimization.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/10-Gap-Scan-08/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/09-GD-Gaps-from-08-abs/optimize_super_abs_b2.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/Scripts/cpmu20.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/10-Gap-Scan-08/make_traj.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/08-GD-From-06/traj_abs/make_traj.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/08-GD-From-06/traj_no_abs/make_traj.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/06-intrvl_optm_endmagn_max_beff/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/08-GD-From-06/optimize_super_no_abs_b2.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/07-Gap-Scan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/08-GD-From-06/optimize_super_abs_b2.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/07-Gap-Scan/make_traj.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/08-GD-From-06/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/02-intrvl_optm/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/05-intrvl_optm_endmagn/make_traj.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/05-intrvl_optm_endmagn/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/16_plotting/group_plots/make_traj.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/16_plotting/group_plots/pltem.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/00-test-dims/check_design.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/02-intrvl_optm/test.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/8-std-dev-reduction/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/30.01.-OnlyEnd/06-intrvl_optm_endmagn _all/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/24.01.-Pole-Length/07-magn_optm/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/24.01.-Pole-Length/06-max_beff/optimize_beff.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/24.01.-Pole-Length/06-max_beff/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/4-std-dev-reduction/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/14_sensitivity/sensitivity.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/24.01.-Pole-Length/04-Pole_Length_test_endmag/pole_lngth_optim.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/24.01.-Pole-Length/05-stddev/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/18_gapscans/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/24.01.-Pole-Length/02-Pole_Length_lPOlMY0/pole_lngth_optim.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/24.01.-Pole-Length/Ini_Pole_Optm/pole_lngth_optim.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/17_pole_length_chck/pole_lngth_optim.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/Scripts/cpmu_20_opt_play.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/13_scaling/period_73/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/13_scaling/period_30/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/12-std-dev-reduction/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/13_scaling/period_15/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/10_endpole/gap_6/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/11_gapscans/gap_6/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/11_gapscans/gap_15/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/9-gap-scan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/10_endpole/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/7-gap-scan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/6_endpole/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/2-magn-diff/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/5-gap-scan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/26.12._big_end1/std_dev_2nd_check/optimize_std_dev_gap.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/28.12.-x_dim/7-magn-std-end-x/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/28.12.-x_dim/8-from-4-with-end_conf_em_l/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/3-gap-scan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/02.01.-From_Scratch/1-endconf/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/28.12.-x_dim/3-magn-std/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/28.12.-x_dim/4-endconf/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/28.12.-x_dim/2-std-dev-optm/optimize_std_dev_gap.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/28.12.-x_dim/5-gapscan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/28.12.-x_dim/6-magn-std/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/28.12.-x_dim/1-magn-opt/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/21.12.-super_optm/3/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/Scripts/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/26.12._big_end1/period_optm_2/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/Scripts/ana_optm_res.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/20.12.-Optimize_Pan/2/optimize_std_dev_gap.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/26.12._big_end1/endpole_3/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/26.12._big_end1/std_dev_2nd/optimize_std_dev_gap.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/26.12._big_end1/1/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/26.12._big_end1/2/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/21.12.-super_optm/2_endconf_test/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/26.12._big_end1/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/21.12.-super_optm/1/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/21.12.-super_optm/optimize_super.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/20.12.-Optimize_Pan/1/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/20.12.-Optimize_Pan/3-endconf-comp/end_pole_optm_comp.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/20.12.-Optimize_Pan/3-endconf/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/20.12.-Optimize_Pan/4-gapscan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/Optimize_End_Struct/3-Gapscan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/Optimize_End_Struct/2-endpole/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/Optimize_End_Struct/1/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/15.12.Magnetization_Minimization/endpole/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/15.12.Magnetization_Minimization/Gapscan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/15.12.Magnetization_Minimization/Minimize/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/15.12.Magnetization_Minimization/Minimize/scan_polmz_magmz_space_magnetization.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/15.12.Magnetization_Minimization/Minscan/Magnetization_Min_Scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/6_End_Pole_Optm/end_pole_optm.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/7_Gap_Scan/gap_scan.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/5_2_Optimize_Gap_Variation/Optimize_Gap_Variation.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/Scripts/compare_measurements.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/5_Optimize_Magn_Diff/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Documents/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/15.12. - Magnetization Minimization/Minimize/Magnetization_Min_Scan.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/2_Pole_Length_Optim/pole_lngth_optim.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/Scripts/cpmu_20_opt_play.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/Scripts/cpmu20.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/Scripts/undu_opt.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/5_2_Optimize_Gap_Variation/Optimize_Gap_Variation.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/5_Optimize_Magn_Diff/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/4_Magnetization_Min_Scan/Magnetization_Min_Scan.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/3_Segmentation_Check/segmentation.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/1_Stable_Periods/stable_periods.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/4_Optimize_Magn_Diff/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/0_Check_Design/check_design.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/CPMU-20/Results/ProcessTesting/2_Optimize_Magn_Diff/optimize_difference_between_magnetizations.py",
+		"/home/jerostan/Dokumente/Very_Unimportant/Arbeit/HZB/Undus/Projekte/CPMU-20/Scripts/2nd-try/compare_measurements.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fourier.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								678,
+								678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "include/fourier.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/fourier.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
