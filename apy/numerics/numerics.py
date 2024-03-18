@@ -4,16 +4,24 @@ Import by writing: import wavepy as wpy
 """
 
 class numerics_class() :
+	"""
+	stuff
+	"""
 	def __init__(self) : 
+		"""
+		some init things
+		"""
 		b=2
 
 class fast_fourier_transform() :
-	"""
-	faaast
-	"""
 	def __init__(self) : 
 		b=2
 		phase_fun = b
 		fac_fun = a
 		acc = a
 
+def some_fun(bla) :
+	"""
+	some fun
+	""" 
+	return 2

@@ -8,25 +8,26 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../../apy/'))
 
-project = 'apy'
-copyright = '2024, Stefan Schäfer'
-author = 'Stefan Schäfer'
-release = '0.0.0'
+sys.path.insert(0, os.path.abspath("../.."))
+
+project = 'Sphinx Template'
+copyright = '2024, Johnny Cash'
+author = 'Beyonce'
+release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['autoapi.extension']
+autoapi_dirs = ['../../apy']  # Relative path to the Python package to document
+autoapi_python_class_content = 'both'
 
 templates_path = ['_templates']
 exclude_patterns = []
 
-
-
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'alabaster'
 html_static_path = ['_static']

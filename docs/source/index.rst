@@ -1,15 +1,22 @@
-.. apy documentation master file, created by
-   sphinx-quickstart on Tue Feb 13 18:44:50 2024.
+ .. HZB Undulator Analysis documentation master file, created by
+   sphinx-quickstart on Wed Nov 22 11:16:59 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to apy's documentation!
-===============================
+Welcome to HZB Sphinx Template
+==============================
+
+**Sphinx Template** is a Python Sphinx Template
+
+.. note::
+    This project is under active development
+    
+Contents
+--------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
+   
+   usage
 
 
 Indices and tables
