@@ -6,10 +6,10 @@
 Welcome to HZB Sphinx Template
 ==============================
 
-**Sphinx Template** is a Python Sphinx Template
+**Sphinx Template** is a Python Sphinx Template. Version: |release|
 
 .. note::
-    This project is under active development
+    This project is under active development. |
     
 Contents
 --------

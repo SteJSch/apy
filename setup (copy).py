@@ -15,7 +15,7 @@ HERE = path.abspath(path.dirname(__file__))
 # This call to setup() does all the work
 setup(
     name="apy",
-    version="0.0.2",
+    version="0.0.0",
     description="Functionality for Spectra Calculations in Synchrotrons and Undulators",
     long_description="long_description",
     long_description_content_type="text/markdown",
