@@ -15,7 +15,7 @@ class apy() :
 
 	def	fun(self) : 
 		"""
-		With some function here. Change!
+		With some function here. Change! Again!
 		"""
 		bla = 2
 
