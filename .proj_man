@@ -2,3 +2,5 @@ name: apy
 src: apy/
 docs: docs/
 cpp: apy/c_libs/
+ext: External-Software/
+tests: tests/
