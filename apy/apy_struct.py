@@ -9,7 +9,7 @@ class apy() :
 
 	def	__init__(self) : 
 		"""
-		With some function here.
+		With some function here. Change
 		"""
 		bla = 2
 
